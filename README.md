@@ -27,11 +27,11 @@ How to Run
 3. Run:
    python main.py
 
-## 📸 Output
+## Output
 ![Output](Screenshot 2026-04-01 153236.png)
 <img width="1920" height="1080" alt="Screenshot 2026-04-01 153236" src="https://github.com/user-attachments/assets/6a79be33-d612-4e23-839d-5f8233c1fd0e" />
 
-## 👨‍💻 Team Members
+## Team Members
 - Sinchana Nayak [2511021060717]
 - D MONISH [2511021060686]
 - MANOJ KUMAR M [2511021060729]
